@@ -42,7 +42,7 @@ export class Tab1Page {
   }
 
   submitTotelegram() {
-    const phoneNumber = '+6281211719875'; // Replace with your desired phone number
+    const phoneNumber = '+6281291378465'; // Replace with your desired phone number
     const message =
       `Nama: ${this.formData.nama}\n` +
       `NIK: ${this.formData.nik}\n` +
