@@ -29,7 +29,7 @@ export class Tab1Page {
   ) {}
 
   submitToWhatsApp() {
-    const phoneNumber = '+6281291378465'; // Replace with your desired phone number
+    const phoneNumber = '+6289604325305'; // Replace with your desired phone number
     const message =
       `NIK: ${this.formData.nik}\n` +
       `Nama: ${this.formData.nama}\n` +
